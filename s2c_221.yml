@@ -136,4 +136,3 @@ dependencies:
   - traitlets==4.3.1
   - wcwidth==0.1.7
   - wheel==0.29.0
-prefix: /gpfs/data1/huanggp/bdv/.conda/envs/s2c_221
